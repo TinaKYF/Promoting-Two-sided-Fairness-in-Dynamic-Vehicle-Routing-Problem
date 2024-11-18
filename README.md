@@ -6,3 +6,14 @@ Dynamic Vehicle Routing Problem (DVRP), is an extension of the classic Vehicle R
 
 
 ![Alt text](./figure.png)
+
+Link to [ArXiv version](https://arxiv.org/abs/2405.19184)
+
+```bibtex
+@inproceedings{kang2024promoting,
+  title={Promoting Two-sided Fairness in Dynamic Vehicle Routing Problems},
+  author={Kang, Yufan and Zhang, Rongsheng and Shao, Wei and Salim, Flora and Chan, Jeffrey},
+  booktitle={Proceedings of the Genetic and Evolutionary Computation Conference},
+  pages={759--767},
+  year={2024}
+}
